@@ -243,6 +243,7 @@ footer{
 
   .main-container-div {
     flex-direction: column-reverse;
+    background-image: url("asset/bg-section-top-mobile-1.svg");
   }
 
   .main-container-text {
